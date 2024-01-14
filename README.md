@@ -1,6 +1,6 @@
 # Bloxburg-Fisherman-AutoWorker
 I made this because I was bored and then worked on it for around 12 hours straight, and when I finished, I realized that this is a kids game and that I will probably never use it. But if yuou want to use it be my guest
-
+<br> <br>
 
 ## Tutorial
 
@@ -10,7 +10,7 @@ I made this because I was bored and then worked on it for around 12 hours straig
    
 ![LifeguardBloxburg](https://github.com/amnotbr/Bloxburg-Fisherman-AutoWorker/assets/98244081/cf65a486-71e0-43a6-8a7b-85977ddbf337)
 
-
+<br> <br>
 
 4. When you are around there, stand about this far away from the water -
    
@@ -25,7 +25,7 @@ I made this because I was bored and then worked on it for around 12 hours straig
 This is about what it looks like, please note that the fishing bobber has to not be in sight completely, the program should only see it when it comes down
 
 
-
+<br> <br>
 
 7. Lastly run the Fisherman.exe and hover your cursur over this and press R -
    
